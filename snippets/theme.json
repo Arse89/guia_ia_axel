@@ -1,0 +1,18 @@
+{
+  "color": {
+    "bg": "#0B0B0C",
+    "fg": "#F5F7FA",
+    "primary": "#4F46E5",
+    "primaryFg": "#FFFFFF"
+  },
+  "radius": {
+    "md": "0.75rem",
+    "xl": "1.25rem"
+  },
+  "space": {
+    "xs": "0.25rem",
+    "sm": "0.5rem",
+    "md": "1rem",
+    "lg": "1.5rem"
+  }
+}
