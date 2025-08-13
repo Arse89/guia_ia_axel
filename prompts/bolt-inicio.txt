@@ -1,0 +1,7 @@
+Crea una app React + Vite + TypeScript + Tailwind con:
+- Layout con navbar (Home, Settings), responsive.
+- Página Home (título + botón contador + ejemplo de lista con TanStack Query).
+- Página Settings (toggle dark mode persistido en localStorage).
+- Configura React Router, TanStack Query, Zustand, React Hook Form + Zod.
+- Incluye `theme.json` y `ui.config.json` (leerlos al inicio) en /public.
+- Añade un README con pasos para abrir en StackBlitz.

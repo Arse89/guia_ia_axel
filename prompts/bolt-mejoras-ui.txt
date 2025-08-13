@@ -1,0 +1,4 @@
+Mejora la UI con componentes: Button, Card, Modal.
+- Button con variantes (`solid`, `outline`) usando Tailwind y lee colors desde theme.json.
+- Modal accesible (focus trap) con cierre por Escape.
+- Refactoriza Home para usar Card y Button.

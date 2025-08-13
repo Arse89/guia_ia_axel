@@ -1,0 +1,4 @@
+Conecta el front a un endpoint `/api/ai` externo (Cloudflare Worker):
+- Crea src/lib/ai.ts con `askGemini(prompt: string)` que haga POST al Worker (URL en env).
+- Maneja errores HTTP y muestra mensajes al usuario.
+- Limita `maxOutputTokens` a 512 y temperatura 0.3 por defecto.

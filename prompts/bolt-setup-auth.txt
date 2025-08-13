@@ -1,0 +1,4 @@
+Integra Supabase (Auth + tabla 'items'):
+- Login con email link (magic link).
+- Página /account (mostrar email, logout).
+- Listado protegido de 'items' (RLS: owner = auth.uid()).
